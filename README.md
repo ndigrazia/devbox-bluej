@@ -10,4 +10,4 @@
 
 7. run `bluej`
 
-8. run exit to close devbox's shell
+8. run `exit` to close devbox's shell
