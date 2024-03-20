@@ -1,0 +1,33 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bluej@latest": {
+      "last_modified": "2024-03-18T04:03:26Z",
+      "resolved": "github:NixOS/nixpkgs/79bb4155141a5e68f2bdee2bf6af35b1d27d3a1d#bluej",
+      "source": "devbox-search",
+      "version": "5.2.0",
+      "systems": {
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/44y72sn4p2997zn0n6hlrbcnwv3g8axk-bluej-5.2.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/44y72sn4p2997zn0n6hlrbcnwv3g8axk-bluej-5.2.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wy7b4zkmii2p5mhkbrrxmqqm161fs2c0-bluej-5.2.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/wy7b4zkmii2p5mhkbrrxmqqm161fs2c0-bluej-5.2.0"
+        }
+      }
+    }
+  }
+}
