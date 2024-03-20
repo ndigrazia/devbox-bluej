@@ -1,13 +1,13 @@
 #Devbox Bluej
 
-1. Fork this repository github
+1. fork/clone this repository github
 
-2. install devbox
+2. install [devbox](https://www.jetpack.io/devbox/docs/installing_devbox/)
 
-3. move to project github
+4. move to project github
+ 
+5. run `devbox shell`
 
-4. run devbox shell
+7. run `bluej`
 
-5. run bluej
-
-6. run exit to close devbox's shell
+8. run exit to close devbox's shell
